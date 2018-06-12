@@ -8,7 +8,7 @@
 # Install pre-commit pep8 checker using githook:
 - Githooks are not getting versioned same are other files(resided ./git/hooks)
 - Add hooks inside hooks dir inside project
-- After pull use command “ln -s ../../hooks/pre-commit .git/hooks/”
+- Use command “ln -s ../../hooks/pre-commit .git/hooks/” to add the hook to your local .git directory
 - pep8 should be installed  in the system level
 - pip install pycodestyle
 
