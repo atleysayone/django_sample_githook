@@ -1,4 +1,4 @@
-## How to setup project for development
+## Githook and usage.
 
 # What is githook
 - Git hooks are scripts that run automatically every time a particular event occurs in a Git repository.
